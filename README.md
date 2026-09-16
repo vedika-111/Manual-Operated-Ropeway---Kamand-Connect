@@ -1,4 +1,4 @@
-````markdown
+
 # Manual Operated Ropeway – Kamand Connect
 
 A 10 m functional manual ropeway prototype designed and fabricated as a low-cost, portable transportation system for mountainous and sloped terrain.
@@ -65,7 +65,7 @@ The major components of the ropeway include:
 
 ## 🔄 Design & Development Workflow
 
-```text
+
         Concept Development
                 ↓
         Mechanical Design
@@ -85,7 +85,7 @@ The major components of the ropeway include:
        10 m Physical Prototype
                 ↓
       Experimental Validation
-````
+
 
 ---
 
@@ -256,7 +256,6 @@ Manual-Operated-Ropeway-Kamand-Connect/
 ```
 
 ---
-
 ## 🧰 Tools & Technologies
 
 | Category              | Tools / Technologies                    |
@@ -354,6 +353,4 @@ The project documentation follows the **CERN Open Hardware Licence Version 2.0 �
 
 The prototype was developed and evaluated as a light-duty experimental system. The full-scale analysis identified structural limitations that require redesign and reinforcement before any full-scale implementation.
 
-```
-::
-```
+
